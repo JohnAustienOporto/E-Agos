@@ -31,7 +31,7 @@ export default function Pamumuhay() {
     <div className="bg-softWhite">
       {/* Header with Parallax */}
       <ParallaxHero
-        imageUrl="/images/pamumuhay/MtoD.png"
+        imageUrl="/images/MtoD.png"
         height="400px"
         title="Pamumuhay"
         subtitle="Pang-araw-araw na buhay ng mga naninirahan sa tabi ng Ilog Daet"
