@@ -72,7 +72,7 @@ export default function Pamumuhay() {
                     <h3 className="text-xl font-bold text-white">Pangingisda</h3>
                   </div>
                   <div className="relative h-64">
-                    <Image src="/images/pamumuhay/PANGINGISDA.jpg" alt="Pangingisda sa Ilog Daet" fill className="object-cover" />
+                    <Image src="/images/isda.jpg" alt="Pangingisda sa Ilog Daet" fill className="object-cover" />
                   </div>
                   <div className="p-6">
                     <p>
