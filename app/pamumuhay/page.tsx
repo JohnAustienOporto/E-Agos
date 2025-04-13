@@ -22,7 +22,7 @@ export default function Pamumuhay() {
       alt: "Pagbabangka ng mga residente",
     },
     {
-      src: "/images/pamumuhay/MtoD.png",
+      src: "/images/MtoD.png",
       alt: "Pagbabangka ng mga residente",
     },
   ]
